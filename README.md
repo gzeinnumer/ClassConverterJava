@@ -36,6 +36,10 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+- Result
+```
+D/Main_Activity: onCreate: Zein_Zein
+```
 
 
 ```
